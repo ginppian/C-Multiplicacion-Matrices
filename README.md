@@ -2,7 +2,7 @@ Multiplicación de Matrices NxN en Lenguaje C Puro
 ===========
 
 <p align="center">
-  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/cowsay.png" width="226" height="158" />
+  <img src="https://github.com/ginppian/C-Multiplicacion-Matrices/blob/master/imgs/img3.png" width="89" height="244" />
 </p>
 
 ## Objetivo
@@ -127,11 +127,13 @@ int main(int argc, const char * argv[]) {
 ## Ejemplo
 
 <p align="center">
-  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/cowsay.png" width="226" height="158" />
+  <img src="https://github.com/ginppian/C-Multiplicacion-Matrices/blob/master/imgs/img1.png" width="273" height="161" />
 </p>
 
+[Fuente](https://www.matesfacil.com/matrices/resueltos-matrices-producto.html)
+
 <p align="center">
-  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/cowsay.png" width="226" height="158" />
+  <img src="https://github.com/ginppian/C-Multiplicacion-Matrices/blob/master/imgs/img2.png" width="222" height="621" />
 </p>
 
 ## Contacto
