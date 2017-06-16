@@ -120,7 +120,11 @@ int main(int argc, const char * argv[]) {
 [Fuente](https://www.matesfacil.com/matrices/resueltos-matrices-producto.html)
 
 <p align="center">
-  <img src="https://github.com/ginppian/C-Multiplicacion-Matrices/blob/master/imgs/img2.png" width="222" height="621" />
+  <img src="https://github.com/ginppian/C-Multiplicacion-Matrices/blob/master/imgs/img2.png" width="221" height="345" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ginppian/C-Multiplicacion-Matrices/blob/master/imgs/img2.png" width="220" height="214" />
 </p>
 
 ## Contacto
