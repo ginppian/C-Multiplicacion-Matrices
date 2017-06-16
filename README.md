@@ -1,6 +1,10 @@
 Multiplicación de Matrices NxN en Lenguaje C Puro
 ===========
 
+<p align="center">
+  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/cowsay.png" width="226" height="158" />
+</p>
+
 ## Objetivo
 
 Se busca hacer una multiplicación de Matrices de NxN.
