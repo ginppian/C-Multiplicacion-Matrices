@@ -67,30 +67,17 @@ int main(int argc, const char * argv[]) {
     }
     
     // Multiplica
-    
     for (int i=0; i < dimension; i++){
         for (int j=0; j < dimension; j++){
             int temporal = 0;
             for (int k=0; k < dimension; k++){
-                //C[i][j]=C[i][j]+A[i][k]*B[k][j];
                 temporal += A[i][k] * B[k][j];
-                printf("t = A * B, %d, %d, %d\n", temporal, A[i][k], B[k][j]);
                 C[i][j] = temporal ;
             }
         }
     }
     
     // Imprime A
-    printf("Matriz C\n");
-    for(int i = 0; i < dimension; i++){
-        for(int j = 0; j < dimension; j++){
-            
-            printf("A[%d][%d]: %d \n", i,j, A[i][j]);
-            
-        }
-    }
-    
-    // Imprime B
     printf("Matriz A\n");
     for(int i = 0; i < dimension; i++){
         for(int j = 0; j < dimension; j++){
